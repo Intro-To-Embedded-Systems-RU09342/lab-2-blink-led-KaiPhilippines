@@ -1,5 +1,4 @@
 # Simple Blink
-# Program Description
 One of the on-board LED's is blinked at a particular rate. 
 
 # Implementaion
